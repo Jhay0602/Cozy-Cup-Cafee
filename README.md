@@ -32,6 +32,7 @@ In Italian, espresso means "pressed out," from the Latin exprimere, "squeeze out
 <img src="2.jpg" width="150"/>
 It is the diminutive form of cappuccio in Italian, meaning "hood" or something that covers the head, thus cappuccino literally means "small capuchin". The coffee beverage has its name not from the hood but from the color of the hooded robes worn by friars and nuns of the Capuchin order
 <img src="3.jpg" width="150"/>
+A classic Americano calls for just two ingredients: a shot of espresso and somewhere between eight and 12 ounces of hot water. You can also make an Americano coffee with a double shot of espresso; just know that you'll need to adjust the ratio of water accordingly to keep the drink balanced.
 <img src="4.jpg" width="150"/>
 <img src="5.jpg" width="150"/>
 
