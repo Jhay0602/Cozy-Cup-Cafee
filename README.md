@@ -42,3 +42,9 @@ Mixed berry drinks typically involve combining a variety of berries to create a 
 
 <img src="222.jpg" alt="Jay Evan Willis Lagutan" style="border-radius:50%;" width=150>
 
+**Name: Jay Evan Willis Lagutan**
+
+**Email:** jaylagutan02@gmail.com
+
+
+
