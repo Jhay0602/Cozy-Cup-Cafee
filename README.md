@@ -46,5 +46,5 @@ Mixed berry drinks typically involve combining a variety of berries to create a 
 
 **Email:** jaylagutan02@gmail.com
 
-[<img src="Facebook_black.png" alt="Facebook" width="40">](https://www.facebook.com/IanDalimocon/)
-[<img src="Github_black.png" alt="GitHub" width="40">](https://github.com/IanDalimocon)
+[<img src="Facebook_black.png" alt="Facebook" width="40">](https://www.facebook.com/princess.michael.35574)
+[<img src="Github_black.png" alt="GitHub" width="40">](https://github.com/Jhay0602)
