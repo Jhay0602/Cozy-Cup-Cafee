@@ -1,7 +1,7 @@
 # Cozy-Cup-Cafe
 
 ## Project Description
-Cozy Cup Cafe is located at Brgy. Sicsican and a service of quality hot and cold  various types of coffee, espresso and cappuccino, amerikano and Non- Coffe drink like Strawberry Latte , Mixed Berrys.
+Cozy Cup Cafe is located at Brgy. Sicsican and a service of quality hot and cold  various types of coffee, espresso and cappuccino and Non- Coffe drink like Strawberry Latte , Mixed Berrys.
 
 
 
@@ -31,8 +31,10 @@ In Italian, espresso means "pressed out," from the Latin exprimere, "squeeze out
 
 <img src="2.jpg" width="150"/>
 It is the diminutive form of cappuccio in Italian, meaning "hood" or something that covers the head, thus cappuccino literally means "small capuchin". The coffee beverage has its name not from the hood but from the color of the hooded robes worn by friars and nuns of the Capuchin order
-<img src="3.jpg" width="150"/>
-A classic Americano calls for just two ingredients: a shot of espresso and somewhere between eight and 12 ounces of hot water. You can also make an Americano coffee with a double shot of espresso; just know that you'll need to adjust the ratio of water accordingly to keep the drink balanced.
+
 <img src="4.jpg" width="150"/>
+A strawberry latte is a flavored latte beverage that combines the rich and creamy texture of a traditional latte with the fruity and sweet taste of strawberries. The drink typically includes espresso, steamed milk, and a strawberry-flavored syrup or puree.
 <img src="5.jpg" width="150"/>
+
+Mixed berry drinks typically involve combining a variety of berries to create a refreshing and flavorful beverage. 
 
