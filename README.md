@@ -38,3 +38,7 @@ A strawberry latte is a flavored latte beverage that combines the rich and cream
 
 Mixed berry drinks typically involve combining a variety of berries to create a refreshing and flavorful beverage. 
 
+# About the Authors
+
+<img src="222.jpg" alt="Jay Evan Willis Lagutan" style="border-radius:50%;" width=150>
+
