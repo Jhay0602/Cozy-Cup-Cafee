@@ -1,7 +1,7 @@
 # Cozy-Cup-Cafe
 
 ## Project Description
-Cozy Cup Cafe is located at Brgy. Sicsican and a service of quality hot and cold  various types of coffee, espresso and cappuccino, amerkano and Non- Coffe drink like Strawberry Latte , Mixed Berrys.
+Cozy Cup Cafe is located at Brgy. Sicsican and a service of quality hot and cold  various types of coffee, espresso and cappuccino, amerikano and Non- Coffe drink like Strawberry Latte , Mixed Berrys.
 
 
 
@@ -27,5 +27,11 @@ Outdoor seating, if applicable.
 
 ## Screen Captures
 <img src="1.jpg" width="150"/>
+In Italian, espresso means "pressed out," from the Latin exprimere, "squeeze out."Strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans. types: caffe latte, latte. strong espresso coffee with a topping of frothed steamed milk.
 
+<img src="2.jpg" width="150"/>
+It is the diminutive form of cappuccio in Italian, meaning "hood" or something that covers the head, thus cappuccino literally means "small capuchin". The coffee beverage has its name not from the hood but from the color of the hooded robes worn by friars and nuns of the Capuchin order
+<img src="3.jpg" width="150"/>
+<img src="4.jpg" width="150"/>
+<img src="5.jpg" width="150"/>
 
