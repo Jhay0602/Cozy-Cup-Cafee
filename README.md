@@ -1,7 +1,7 @@
 # Cozy-Cup-Cafe
 
 ## Project Description
-As of my last knowledge update in January 2022, there isn't specific information available about a "Cozy Cup" or "Cozy Cup Cafe" that would be universally recognized or well-known. It's possible that it could be a local business, a fictional entity, or a specific term used in a particular context.
+Cozy Cup Cafe is located at Brgy. Sicsican and a service of quality hot and cold  various types of coffee, espresso and cappuccino, amerkano and Non- Coffe drink like Strawberry Latte , Mixed Berrys.
 
 
 
@@ -24,3 +24,8 @@ Support for local artists or musicians.
 Efficient order processing.
 - Seating Options:Comfortable seating arrangements, including couches or armchairs.
 Outdoor seating, if applicable.
+
+## Screen Captures
+<img src="1.jpg" width="150"/>
+
+
